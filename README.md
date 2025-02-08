@@ -1,9 +1,7 @@
 
-![🤖 PhippsAI](media/phippsai.png)  
-[![💬 Chat on Discord](https://img.shields.io/discord/754884471324672040?style=for-the-badge)](https://discord.gg/tPWjMwK)
-[![📡 Follow on Bluesky](https://img.shields.io/badge/Bluesky-tinyBigGAMES-blue?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/tinybiggames.com)  
-
-# 🤖 PhippsAI – Your AI Butler  
+![PhippsAI](media/phippsai.png)  
+[![Chat on Discord](https://img.shields.io/discord/754884471324672040?style=for-the-badge)](https://discord.gg/tPWjMwK)
+[![Follow on Bluesky](https://img.shields.io/badge/Bluesky-tinyBigGAMES-blue?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/tinybiggames.com)  
 
 PhippsAI is an **🧪 experimental** project that integrates **💻 local generative AI** with real-time **🌐 web search capabilities** using function calling. The system is powered by **🧠 DeepSeek R1**, running locally via **llama.cpp**, and employs **🔍 Tavily** for live web searches.
 
