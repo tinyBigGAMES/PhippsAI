@@ -19,7 +19,7 @@ PhippsAI is an **🧪 experimental** project that integrates **💻 local genera
 To run **PhippsAI**, you must use the following model:
 
 - **🧠 Model Name**: `deepseek-r1-distill-llama-8b-abliterated-q4_k_m.gguf`
-- 📥 **Download Link**: [🔗 Hugging Face Repository](https://huggingface.co/tinybiggames/DeepSeek-R1-Distill-Llama-8B-abliterated-Q4_K_M-GGUF/resolve/main/deepseek-r1-distill-llama-8b-abliterated-Q4_K_M-GGUF?download=true)
+- 📥 **Download Link**: [🔗 Hugging Face Repository](https://huggingface.co/tinybiggames/DeepSeek-R1-Distill-Llama-8B-abliterated-Q4_K_M-GGUF/resolve/main/deepseek-r1-distill-llama-8b-abliterated-q4_k_m.gguf?download=true)
 
 ### 📝 Model Overview
 - This model is a **distilled** version of **Llama 3.1 8B**.
