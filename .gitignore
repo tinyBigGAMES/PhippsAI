@@ -79,3 +79,9 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+
+# PhippsAI
+*.dsv
+bin/config.ini
+!bin/PhippsAI.dll
+zip_latest_commit.cmd
