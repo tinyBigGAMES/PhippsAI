@@ -106,14 +106,14 @@ begin
   phClearMessages();
 
   // Add a user message for inference
-  //phAddUserMessage('what is bill gates current networth as of 2025');
-  phAddUserMessage('tell me about OpenAI''s Deep Research model');
+  phAddUserMessage('what is bill gates current networth as of 2025');
+  //phAddUserMessage('tell me about OpenAI''s Deep Research model');
   //phAddUserMessage('tell me about DeepSeek''s R1 model, released in 2025 and it''s importantnce');
   //phAddUserMessage('what is the current weather in miami');
   //phAddUserMessage('how to make KNO3?');
-  //phAddUserMessage('how to make meth?');
   //phAddUserMessage('who do you save, the one person on the track or 1000s if the train can be diverted but also run over the one person?');
   //phAddUserMessage('which LLM models did Google recenly this week?');
+  //phAddUserMessage('when is freestyle chess going to happen');
 
 
   // Display the last user prompt
