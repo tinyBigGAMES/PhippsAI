@@ -76,6 +76,10 @@ Run the provided examples to see **PhippsAI** in action!
 
 ## 📺 Media
 
+
+https://github.com/user-attachments/assets/9f7a8fc5-8888-4e82-ad73-d7239993c245
+
+
 ## 🛠️ Support and Resources
 
 - 🐞 **Report issues** via the [Issue Tracker](https://github.com/tinyBigGAMES/PhippsAI/issues).
