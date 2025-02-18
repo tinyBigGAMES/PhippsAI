@@ -10,7 +10,7 @@ PhippsAI is an **🧪 experimental** project that integrates **💻 local genera
 - ⚡ **Function Calling Support**: Allows the model to trigger web search actions when necessary.
 - 🌐 **Real-Time Web Search**: Uses **Tavily** to fetch up-to-date information dynamically.
 - 🏎️ **Optimized for Efficiency**: Leveraging **llama.cpp**, enabling fast and efficient execution on local hardware.
-- 🌍 **Cross-Language Support**: Built as a **Win64 Unicode DLL**, making it compatible with any language via DLL bindings.
+- 🌍 **Cross-Language Support**: Built as a **Win64 Unicode DLL**, making it compatible with any language via DLL bindings, running Windows 10 or higher.
 - 🎯 **Developed in Delphi**: Requires Delphi 12.2 for building the DLL, but a prebuilt, ready-to-use DLL is included in the repository.
 
 ## 📥 Model Requirements
